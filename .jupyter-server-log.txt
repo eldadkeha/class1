@@ -71,3 +71,7 @@ TermSocket.open: Opened 1
 [I 15:00:09.552 NotebookApp] Saving file at /C1G1.ipynb
 [I 15:02:10.106 NotebookApp] Saving file at /C1G1.ipynb
 [I 15:04:33.819 NotebookApp] Saving file at /C1G1.ipynb
+[I 15:10:25.896 NotebookApp] New terminal with automatic name: 2
+TermSocket.open: 2
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 2
