@@ -80,3 +80,12 @@ TermSocket.open: Opened 2
 [I 15:21:52.604 NotebookApp] Saving file at /C1G20.ipynb
 [I 15:29:37.129 NotebookApp] Kernel started: fc1ca73f-b933-4591-bbae-fc48c98a79ab, name: python3
 [I 15:29:55.526 NotebookApp] Saving file at /C1G20.ipynb
+[I 15:31:56.030 NotebookApp] Saving file at /C1G1.ipynb
+[I 15:45:59.588 NotebookApp] Saving file at /C1G1.ipynb
+[I 15:48:00.624 NotebookApp] Saving file at /C1G1.ipynb
+[I 15:50:01.055 NotebookApp] Saving file at /C1G1.ipynb
+[I 15:52:01.686 NotebookApp] Saving file at /C1G1.ipynb
+[I 15:54:02.612 NotebookApp] Saving file at /C1G1.ipynb
+[I 15:56:03.854 NotebookApp] Saving file at /C1G1.ipynb
+[I 15:58:04.770 NotebookApp] Saving file at /C1G1.ipynb
+[I 16:00:05.440 NotebookApp] Saving file at /C1G1.ipynb
