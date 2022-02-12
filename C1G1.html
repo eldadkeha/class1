@@ -13137,7 +13137,6 @@ div#notebook {
 
 <span class="c1">#@title One sample from heights distribution</span>
 <span class="n">data2</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">&quot;data2.csv&quot;</span><span class="p">)</span>
-
 <span class="n">heightSim</span> <span class="o">=</span> <span class="n">data2</span><span class="p">[</span><span class="s1">&#39;Height&#39;</span><span class="p">]</span>
 
 <span class="k">def</span> <span class="nf">changeSampleSize</span><span class="p">(</span><span class="n">sample_size</span><span class="o">=</span><span class="mi">18</span><span class="p">):</span>
@@ -13155,7 +13154,7 @@ div#notebook {
   <span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s1">&#39;Frequency&#39;</span><span class="p">);</span>
   <span class="n">plt</span><span class="o">.</span><span class="n">axvline</span><span class="p">(</span><span class="n">x</span><span class="o">=</span><span class="n">meanHgt</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">&#39;purple&#39;</span><span class="p">,</span> <span class="n">linestyle</span><span class="o">=</span><span class="s1">&#39;-&#39;</span><span class="p">,</span> <span class="n">linewidth</span> <span class="o">=</span> <span class="mi">3</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="n">meanHgt</span><span class="p">);</span>
   <span class="n">plt</span><span class="o">.</span><span class="n">legend</span> <span class="p">();</span>
-<span class="n">_</span><span class="o">=</span><span class="n">interact</span><span class="p">(</span><span class="n">changeSampleSize</span><span class="p">,</span><span class="n">sample_size</span><span class="o">=</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="mi">200</span><span class="p">))</span>
+<span class="n">_</span><span class="o">=</span><span class="n">interact</span><span class="p">(</span><span class="n">changeSampleSize</span><span class="p">,</span><span class="n">sample_size</span><span class="o">=</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="mi">1000</span><span class="p">))</span>
 </pre></div>
 
     </div>
